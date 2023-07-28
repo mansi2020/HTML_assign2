@@ -39,6 +39,7 @@ th tag defines a header cell in an HTML table.
 td tag defines a standard data cell in an HTML table.
 
 
-Screenshot of GIT command
-![Uploading Screenshot (117).png…]()
+Screenshot of GIT command  
+![Screenshot (117)](https://github.com/mansi2020/HTML_assign2/assets/57188328/f3aaaf9a-45af-49ff-8a04-18143d2836fb)
+
 
